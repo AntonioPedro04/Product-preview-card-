@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://antoniopedro04.github.io/Product-preview-card-/)
+- Live Site URL: [URL here](https://antoniopedro04.github.io/Product-preview-card-/)
 
 ## My process
 
