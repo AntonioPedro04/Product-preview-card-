@@ -41,7 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-  These features that I used have expanded my web development knowledge, leading to better structured pages, flexible stylesheets and resposive layouts.
+  These features that I used have expanded my web development knowledge, leading to better structured pages, flexible stylesheets and responsive layouts.
 
 
 ## Author
